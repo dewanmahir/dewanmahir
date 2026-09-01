@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dewan Mahir</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate AI-Driven Full Stack Web Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **Modern and responsive web development projects**
 
 - 🌱 I’m currently learning **Improving my skills in JavaScript, React.js & Tailwind CSS**
 
