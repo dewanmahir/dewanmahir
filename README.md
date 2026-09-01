@@ -1,5 +1,3 @@
-<img align="center" src="https://drive.google.com/file/d/1ftsyfn9O01A6YsXED3aRYL1tkTEoWSte/view?usp=sharing"
-    alt="dewan mahir banner" />
 <h1 align="center">Hi 👋, I'm Dewan Mahir</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
